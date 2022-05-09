@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorAgentAPM", "SensorAgentAPM.csproj", "{E6FD2A55-CB25-4232-9CBF-D024E6487D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6FD2A55-CB25-4232-9CBF-D024E6487D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FD2A55-CB25-4232-9CBF-D024E6487D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FD2A55-CB25-4232-9CBF-D024E6487D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FD2A55-CB25-4232-9CBF-D024E6487D84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C375F26D-12BF-4FEE-A658-DE6701655208}
+	EndGlobalSection
+EndGlobal
